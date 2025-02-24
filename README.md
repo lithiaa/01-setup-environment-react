@@ -23,7 +23,6 @@ gambar pada tahap percobaan ke-3!
 
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah 
 berhasil Anda lakukan! 
-
 ![alt text](image-6.png)
 ![alt text](image-3.png)
 ![alt text](image-2.png)
@@ -35,3 +34,11 @@ berhasil Anda lakukan!
 berhasil Anda lakukan!
 ![alt text](image-4.png)
 
+# Praktikum 4: Menulis Markup dengan JSX
+## Pertanyaan Praktikum 4 
+1. Untuk apakah kegunaan sintaks user.imageUrl? 
+    
+    Sintaks `user.imageUrl` digunakan untuk mengambil gambar dari tautan yang dideklarasikan pada properti imageUrl dari objek user. Pada source code praktikum, user.imageUrl dipanggil dalam komponen Profile sebagai sumber (src) untuk elemen image `<img>`, sehingga gambar dari tautan tersebut dapat ditampilkan pada halaman web.
+2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah 
+berhasil Anda lakukan!
+![alt text](image-7.png)
