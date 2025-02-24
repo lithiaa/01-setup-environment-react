@@ -29,5 +29,9 @@ berhasil Anda lakukan!
 ![alt text](image-2.png)
 ![alt text](image-5.png)
 
-
+# Praktikum 3: Menambahkan Komponen React (Button)
+## Pertanyaan Praktikum 3 
+1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah 
+berhasil Anda lakukan!
+![alt text](image-4.png)
 
